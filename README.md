@@ -10,8 +10,6 @@ Algumas informações úteis
 5. Danilo (dlf3@cin.ufpe.br)
 
 # GPN 
-## Site
-### Site
 #### Site
 https://sites.google.com/site/gpnif978/home
 
@@ -20,6 +18,8 @@ https://sites.google.com/site/gpnif978/home
 # Contatos GPN
 Carla (Professora)
 Reydne (Estagiário) 
-# Contatos SGE
+
+# SGE
+#### Contatos
 
 Marco (Cliente IFPE) 
