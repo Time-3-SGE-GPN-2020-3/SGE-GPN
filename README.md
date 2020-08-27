@@ -12,12 +12,13 @@ Algumas informações úteis
 # GPN 
 #### Site
 https://sites.google.com/site/gpnif978/home
-
-# Ferramentas
-
 # Contatos GPN
 Carla (Professora)
 Reydne (Estagiário) 
+#### Ferramenta BPMN
+A escolher
+#### Ferramenta i*
+A escolher
 
 # SGE
 #### Contatos
