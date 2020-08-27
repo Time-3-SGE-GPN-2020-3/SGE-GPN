@@ -8,6 +8,8 @@ Algumas informações úteis
 3. Jean Pierre (jpos2@cin.ufpe.br)
 4. Thales (trm3@cin.ufpe.br)
 5. Danilo (dlf3@cin.ufpe.br)
+# Projeto/Kanban
+https://github.com/orgs/Time-3-SGE-GPN-2020-3/projects/1
 
 # GPN 
 #### Site
