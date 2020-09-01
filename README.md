@@ -11,6 +11,8 @@ Algumas informações úteis
 # Projeto/Kanban
 https://github.com/orgs/Time-3-SGE-GPN-2020-3/projects/1
 
+https://trello.com/b/xGVgM1ex/sge-gpn
+
 # Drive
 https://drive.google.com/drive/u/1/folders/1tDm154YNK8J9nptZwSltgSnMl-Rv9IvF
 
@@ -24,11 +26,13 @@ Reydne (Estagiário)
 A escolher
 #### Ferramenta i*
 A escolher
+#### Cronograma
+https://sites.google.com/site/gpnif978/diariodeclasse
 
 # SGE
 #### Contatos
 
 Marco (Cliente IFPE) 
 
-# TRELLO
-https://trello.com/b/xGVgM1ex/sge-gpn
+#### Cronograma
+https://docs.google.com/spreadsheets/d/1UCVd0Xui-ktylbGMxbzFSHq0DiRG7XZZeEbsE_z5gdo/
