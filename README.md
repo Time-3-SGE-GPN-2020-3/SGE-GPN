@@ -19,6 +19,8 @@ https://drive.google.com/drive/u/1/folders/1tDm154YNK8J9nptZwSltgSnMl-Rv9IvF
 # GPN 
 #### Site
 https://sites.google.com/site/gpnif978/home
+#### Cronograma
+https://sites.google.com/site/gpnif978/diariodeclasse
 # Contatos GPN
 Carla (Professora)
 Reydne (Estagiário) 
@@ -26,8 +28,6 @@ Reydne (Estagiário)
 A escolher
 #### Ferramenta i*
 A escolher
-#### Cronograma
-https://sites.google.com/site/gpnif978/diariodeclasse
 
 # SGE
 #### Contatos
