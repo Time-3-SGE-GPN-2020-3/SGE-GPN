@@ -5,11 +5,11 @@
 2. 08/09 - SGE e GPN - Kickoff dos Projetos (SGE, PGP e GPN)
 3. 10/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte I
 4. 12-09 - SGE - Avaliação das interações planejadas para o projeto
-5.       - GPN - Modelagem de Processos de Negócio com BPMN - parte II
+5. 12/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte II
 6. 15/09 - SGE - Fatores críticos de sucesso na Implantação de SGE
 7. 17/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte III
 8. 19/09 - SGE - Avaliação da prática Fatores Críticos
-9.       - GPN - Modelagem de Processos de Negócio com BPMN - parte IV
+9. 19/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte IV
 10. 22/09 - SGE - Gerenciando Stakeholders externos à equipe de projeto
 11. 24/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte V
 12. 26/09 - SGE - Avaliação Individual 1 (10h - 12h) - Síncrono, mas sem interação
