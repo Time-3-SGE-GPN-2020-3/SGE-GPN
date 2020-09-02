@@ -1,5 +1,20 @@
 # SGE/GPN - Time 3
 
+# Entregas Setembro
+05/09 - SGE - Avaliação Desempenho e PBL-Test 1 / Reunião com o cliente real (10h-12h)
+08/09 - SGE e GPN - Kickoff dos Projetos (SGE, PGP e GPN)
+10/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte I
+12-09 - SGE - Avaliação das interações planejadas para o projeto
+      - GPN - Modelagem de Processos de Negócio com BPMN - parte II
+15/09 - SGE - Fatores críticos de sucesso na Implantação de SGE
+17/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte III
+19/09 - SGE - Avaliação da prática Fatores Críticos
+      - GPN - Modelagem de Processos de Negócio com BPMN - parte IV
+22/09 - SGE - Gerenciando Stakeholders externos à equipe de projeto
+24/09 - GPN - Modelagem de Processos de Negócio com BPMN - parte V
+26/09 - SGE - Avaliação Individual 1 (10h - 12h) - Síncrono, mas sem interação
+29/09 - SGE e GPN - 1º. Status Report (SGE, PGP e GPN)
+
 Algumas informações úteis
 
 # Membros
@@ -8,6 +23,7 @@ Algumas informações úteis
 3. Jean Pierre (jpos2@cin.ufpe.br)
 4. Thales (trm3@cin.ufpe.br)
 5. Danilo (dlf3@cin.ufpe.br)
+
 # Projeto/Kanban
 https://github.com/orgs/Time-3-SGE-GPN-2020-3/projects/1
 
