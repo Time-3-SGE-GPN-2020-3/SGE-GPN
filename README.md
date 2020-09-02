@@ -1,4 +1,4 @@
-# SGE/GPN - Time 3
+# SGE Time 3/GPN Grupo 10
 
 # Meetings terça e sexta 20:30h
 https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
