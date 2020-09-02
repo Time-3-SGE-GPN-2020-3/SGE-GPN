@@ -1,5 +1,8 @@
 # SGE/GPN - Time 3
 
+# Meetings terça e sexta 20:30h
+https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
+
 # Entregas Setembro
 1. 05/09 - SGE - Avaliação Desempenho e PBL-Test 1 / Reunião com o cliente real (10h-12h)
 2. 08/09 - SGE e GPN - Kickoff dos Projetos (SGE, PGP e GPN)
