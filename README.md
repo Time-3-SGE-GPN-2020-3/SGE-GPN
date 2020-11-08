@@ -19,10 +19,10 @@ https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
 13. 29/09 - SGE e GPN - 1º. Status Report (SGE, PGP e GPN)
 
 # Apresentações
-1. Kick-Off
-2. 1º Status Report
-3. 2º Status Report
-4. Apresentação final (à fazer)
+1. [Kick-Off](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Kick%20Off%20-%20Time%203.pdf)
+2. 1º Status Report [Não feito]
+3. [2º Status Report](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/2%C2%BA%20Status%20Report%20-%20Time%203.pdf)
+4. Apresentação final (por fazer)
 
 
 Algumas informações úteis
