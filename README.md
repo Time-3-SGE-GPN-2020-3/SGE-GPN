@@ -18,6 +18,13 @@ https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
 12. 26/09 - SGE - Avaliação Individual 1 (10h - 12h) - Síncrono, mas sem interação
 13. 29/09 - SGE e GPN - 1º. Status Report (SGE, PGP e GPN)
 
+# Apresentações
+1. Kick-Off
+2. 1º Status Report
+3. 2º Status Report
+4. Apresentação final (à fazer)
+
+
 Algumas informações úteis
 
 # Membros
