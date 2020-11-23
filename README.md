@@ -22,17 +22,14 @@ https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
 1. [Kick-Off](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Kick%20Off%20-%20Time%203.pdf)
 2. 1º Status Report [Não feito]
 3. [2º Status Report](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/2%C2%BA%20Status%20Report%20-%20Time%203.pdf)
-4. Apresentação final (por fazer)
+4. [Apresentação Final](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Apresenta%C3%A7%C3%A3o%20Final%20-%20Time%203.pdf)
 
 
 Algumas informações úteis
 
 # Membros
-1. Almir (aggs@cin.ufpe.br)
-2. Navarro (nags@cin.ufpe.br)
-3. Jean Pierre (jpos2@cin.ufpe.br)
-4. Thales (trm3@cin.ufpe.br)
-5. Danilo (dlf3@cin.ufpe.br)
+1. Danilo (dlf3@cin.ufpe.br)
+2. Jean Pierre (jpos2@cin.ufpe.br) 
 
 # Projeto/Kanban
 https://github.com/orgs/Time-3-SGE-GPN-2020-3/projects/1
