@@ -24,6 +24,13 @@ https://meet.google.com/jth-bgsx-yfh?pli=1&authuser=1
 3. [2º Status Report](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/2%C2%BA%20Status%20Report%20-%20Time%203.pdf)
 4. [Apresentação Final](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Apresenta%C3%A7%C3%A3o%20Final%20-%20Time%203.pdf)
 
+Plano de Melhoria
+[PDF](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Plano_de_Melhorias.pdf)
+[DOCX](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Plano_de_Melhorias.docx)
+
+Modelagem de Processos
+[PDF](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Modelagem_de_Processos.pdf)
+[DOCX](https://github.com/Time-3-SGE-GPN-2020-3/SGE-GPN/blob/master/Modelagem_de_Processos.docx)
 
 Algumas informações úteis
 
