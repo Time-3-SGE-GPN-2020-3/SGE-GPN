@@ -48,9 +48,9 @@ https://sites.google.com/site/gpnif978/diariodeclasse
 Carla (Professora)
 Reydne (Estagiário) 
 #### Ferramenta BPMN
-A escolher
+Bizagi Modeler
 #### Ferramenta i*
-A escolher
+piStar
 
 # SGE
 #### Contatos
